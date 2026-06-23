@@ -76,7 +76,6 @@ My Contribution
 </p>
 
 
-
 * Contributed to hardware design and implementation
 * Worked on sensor integration and testing
 * Participated in documentation and presentation
@@ -121,6 +120,16 @@ for Collision Avoidance Using GPS and WiFi
 * Implemented collision avoidance and driver safety features
 * Conducted testing, documentation, and project presentation
 * Received the 🏆 Best Paper Award at IEEE CCGE 2026
+
+
+🏥 MediSlot – Healthcare Appointment Management System
+Java + Spring Boot + SQL
+Admin, Doctor, and Patient Modules
+Appointment Scheduling and Slot Booking
+Hospital and Doctor Management
+Medicine Reminder System
+Emergency Ambulance Support
+User-Friendly Healthcare Platform
 
 
 <!---
