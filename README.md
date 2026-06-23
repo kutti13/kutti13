@@ -138,6 +138,20 @@ Medicine Reminder System
 Emergency Ambulance Support
 User-Friendly Healthcare Platform
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kutti13&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutti13&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kutti13&theme=tokyonight" />
+</p>
+
 
 <!---
 kutti13/kutti13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
