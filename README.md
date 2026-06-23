@@ -63,7 +63,9 @@ IEEE Conference Publication
 
 My Contribution
 <p align="left">
-
+<a href="https://ieeexplore.ieee.org/document/11036065/">
+  <img src="https://img.shields.io/badge/VIEW_IEEE_PAPER-blue?style=for-the-badge">
+</a>
 <img src="https://img.shields.io/badge/IEEE_PUBLICATION-blue?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-green?style=for-the-badge">
