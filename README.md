@@ -15,7 +15,7 @@ Java | SQL | HTML | CSS | JavaScript | Git | GitHub | Python
 🔗 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/sumana-shree-57](http://www.linkedin.com/in/sumana-shree-57)
-* LeetCode: leetcode.com/u/W0k0KbpCSi/
+* LeetCode: https://leetcode.com/u/W0k0KbpCSi/
 * HackerRank: [www.hackerrank.com/profile/shobhasumana71](http://www.hackerrank.com/profile/shobhasumana71)
 
 📄 Research Publication
