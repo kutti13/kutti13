@@ -1,3 +1,18 @@
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sumana-shree-57">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/kutti13">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:shobhasumana71@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
 
 🎓 Electronics & Communication Engineering Student
 * 💻 Java Full Stack Development Intern
