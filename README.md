@@ -1,3 +1,9 @@
+<h1 align="center">Sumana Shree C S</h1>
+
+<h3 align="center">
+🎓 ECE Student | 💻 Java Full Stack Developer | 🚀 DSA Enthusiast
+</h3>
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sumana-shree-57">
@@ -13,6 +19,7 @@
 </a>
 
 </p>
+
 
 🎓 Electronics & Communication Engineering Student
 * 💻 Java Full Stack Development Intern
