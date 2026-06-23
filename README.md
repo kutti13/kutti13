@@ -25,7 +25,26 @@
 
 🛠️ Skills
 
-Java | SQL | HTML | CSS | DSA | Java Script | Git | Git Hub 
+## ⚙️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Frameworks & Tools
+
+![JDBC](https://img.shields.io/badge/JDBC-0088CC?style=for-the-badge)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+
+### Database
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
 
 🔗 Connect With Me
 
