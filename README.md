@@ -40,6 +40,18 @@ Third Eye for Blind People Using Ultrasonic Vibrator Glove
 IEEE Conference Publication
 
 My Contribution
+<p align="left">
+
+<img src="https://img.shields.io/badge/COLLABORATIVE_PROJECT-grey?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/BEST_PAPER_AWARD-purple?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/IEEE_PUBLICATION-darkblue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/CCGE_2026-blue?style=for-the-badge">
+
+</p>
+
 
 * Contributed to hardware design and implementation
 * Worked on sensor integration and testing
