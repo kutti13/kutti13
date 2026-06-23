@@ -24,12 +24,6 @@ Third Eye for Blind People Using Ultrasonic Vibrator Glove
 
 IEEE Conference Publication
 
-▶ Embedded Systems
-▶ Arduino UNO
-▶ Ultrasonic Sensors
-▶ Assistive Technology
-Published in an IEEE Conference.
-
 My Contribution
 
 * Contributed to hardware design and implementation
