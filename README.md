@@ -151,6 +151,11 @@ User-Friendly Healthcare Platform
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kutti13&theme=tokyonight" />
 </p>
+## 📈 GitHub Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kutti13&theme=tokyonight" />
+</p>
 
 
 <!---
