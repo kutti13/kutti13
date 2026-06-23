@@ -23,7 +23,7 @@
 * ☁️ OCI AI Foundations Certified
 * 📫 Reach me at: [shobhasumana71@gmail.com](mailto:shobhasumana71@gmail.com)
 
-### 🛠️ Skills
+🛠️ Skills
 
 Java | SQL | HTML | CSS | DSA | Java Script | Git | Git Hub 
 
@@ -42,15 +42,20 @@ IEEE Conference Publication
 My Contribution
 <p align="left">
 
-<img src="https://img.shields.io/badge/COLLABORATIVE_PROJECT-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/IEEE_PUBLICATION-blue?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/BEST_PAPER_AWARD-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-green?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/IEEE_PUBLICATION-darkblue?style=for-the-badge">
+<img src="https://img.shields.io/badge/ARDUINO_UNO-teal?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/CCGE_2026-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/ULTRASONIC_SENSOR-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/ASSISTIVE_TECHNOLOGY-purple?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/TEAM_PROJECT-red?style=for-the-badge">
 
 </p>
+
 
 
 * Contributed to hardware design and implementation
@@ -79,6 +84,18 @@ for Collision Avoidance Using GPS and WiFi
 ▶ Embedded Systems & IoT
 
  My Contribution
+ <p align="left">
+
+<img src="https://img.shields.io/badge/COLLABORATIVE_PROJECT-grey?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/BEST_PAPER_AWARD-purple?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/IEEE_PUBLICATION-darkblue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/CCGE_2026-blue?style=for-the-badge">
+
+</p>
+
 
 * Designed and developed the hardware prototype
 * Integrated GPS, WiFi, and sensor modules
