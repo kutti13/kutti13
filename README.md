@@ -10,7 +10,7 @@
 
 ### 🛠️ Skills
 
-Java | SQL | HTML | CSS | JavaScript | Git | GitHub | Python
+Java | SQL | HTML | CSS | DSA | Java Script | Git | Git Hub 
 
 🔗 Connect With Me
 
