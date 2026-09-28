@@ -107,9 +107,9 @@ for Collision Avoidance Using GPS and WiFi
 
  My Contribution
  <p align="left">
-<a IEEE Research Paper (https://ieeexplore.ieee.org/document/11581639)
+<a IEEE Research Paper (https://ieeexplore.ieee.org/document/11581639)>
 <img src="https://img.shields.io/badge/COLLABORATIVE_PROJECT-grey?style=for-the-badge">
-a>
+</a>
 <img src="https://img.shields.io/badge/BEST_PAPER_AWARD-purple?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/IEEE_PUBLICATION-darkblue?style=for-the-badge">
