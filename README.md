@@ -107,7 +107,7 @@ for Collision Avoidance Using GPS and WiFi
 
  My Contribution
  <p align="left">
-https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=2026%202nd%20International%20Conference%20on%20Computing,%20Communication%20and%20Green%20Engineering%20(CCGE)
+- [IEEE Research Paper – Ad Hoc Car Communication System for Collision Avoidance Using GPS and WiFi](https://ieeexplore.ieee.org/document/11581639)
 <img src="https://img.shields.io/badge/COLLABORATIVE_PROJECT-grey?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/BEST_PAPER_AWARD-purple?style=for-the-badge">
